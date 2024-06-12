@@ -3,6 +3,8 @@
 <h3 align="center">A passionate full-Stack developer from Sri Lanka </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaif-zakey&label=Profile%20views&color=0e75b6&style=flat" alt="kaif-zakey" /> </p>
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 - 🌱 I’m currently learning **Java,SQL**  
 
@@ -11,6 +13,9 @@
 - 📫 How to reach me **kaifzakey47@gmail.com**
 
 - ⚡ Fun fact **Call me as Zaki**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
