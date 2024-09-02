@@ -33,7 +33,15 @@
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a>&nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>&nbsp;<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> </p>
 <br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kaif-Zakey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
+<br>
+<br>
+
 | ![KaifZakey's github stats](https://github-readme-stats.vercel.app/api?username=Kaif-Zakey&show_icons=true&theme=tokyonight) | ![Kaif GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaif-Zakey&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-Zakey&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Kaif-Zakey&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+<br>
+<br>
