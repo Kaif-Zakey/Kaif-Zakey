@@ -1,8 +1,10 @@
 <h1 align="center"<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></h1>
 <h1 align="center">Hi 👋, I'm Kaif Zaki</h1>
 
-<h3 align="center" style="color🍏">Undergraduate Software Engineer</h3>
-<!--horizontal divider(gradiant)-->
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=🧑‍💻+Undergraduate+Software+Engineer;" />
+</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
