@@ -118,12 +118,16 @@ const kaif = {
 <br>
 <br>
 
-  **💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br>
 <br>
+
+ **💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+ 
 <img src="https://komarev.com/ghpvc/?username=Kaif-Zakey&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+
 </div>
+
