@@ -30,8 +30,9 @@ const kaif = {
 };
 ```
 
+ 
+ <img align="right" alt="Coding" width=50% src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🎯 What I'm up to
 - 🔨 **Building:** Scalable microservices with Spring Boot
