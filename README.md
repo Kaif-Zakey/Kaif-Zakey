@@ -1,9 +1,8 @@
 <div align="center">
 
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descAlignY=55&descAlign=center" width="100%"/>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
-<br>
-<br>
  
 <div align="center">
   
