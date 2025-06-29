@@ -1,21 +1,11 @@
 <div align="center">
-
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Kaif%20Zakey&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=center" width="100%"/>
+</div>
  
 <div align="center">
-  
-
-   
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=Undergraduate+Software+Engineer;" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-
-
 <br>
 
 ## 🚀 About Me
