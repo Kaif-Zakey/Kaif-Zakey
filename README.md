@@ -127,7 +127,7 @@ const kaif = {
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif-Zakey&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 
-  <img src="https://streak-stats.demolab.com?user=Kaif-Zakey&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
+ 
 
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaif-Zakey&theme=github_dark" alt="Profile Summary"/>
